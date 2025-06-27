@@ -96,5 +96,7 @@ Handle syntax errors more gracefully.
 
 This project serves as a strong introduction to compiler design principles, specifically parsing and evaluation of arithmetic expressions. It demonstrates an understanding of data structures, algorithmic control flow, and practical compiler internals.
 
+*OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/ec44e17b-98b9-4a94-8358-4af58f1cbcc4)
 
